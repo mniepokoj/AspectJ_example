@@ -5,7 +5,7 @@ To run the project, you will need Intelij Idea Ultimate and the AspectJ compiler
 ## Clone the project
  1. Firstly you need to clone project. Open it with intelij 
 ## Install AspectJ Compiler
- 2. Load pom.xml file
+ 2. Load maven
  3. To compileproject you will need ajc - AspectJ compiler
  4. Download it from  https://www.eclipse.org/aspectj/ After AspectJ installation you 	need
  ## Link AspectJCompiler to the Project
